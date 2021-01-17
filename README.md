@@ -11,7 +11,7 @@ In terminal clone the project into a directory of your choice then delete the gi
 git clone --depth=1 https://github.com/edwinwebb/react-three-fiber-seed.git my-project
 cd my-project
 rm -rf .git
-npm in
+npm install
 ```
 
 ## Running the development server
