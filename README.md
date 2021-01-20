@@ -1,6 +1,6 @@
-# Rect Three Fiber Seed
+# React Three Fiber Seed
 
-This project is designed to help you get started on your next three.js project. 
+This project is designed to help you get started on your next react-three-fiber project. 
 
 It's a port of my [three-seed](https://github.com/edwinwebb/three-seed) project to react-three-fiber.
 
@@ -12,6 +12,13 @@ git clone --depth=1 https://github.com/edwinwebb/react-three-fiber-seed.git my-p
 cd my-project
 rm -rf .git
 npm install
+```
+
+### Clean
+```bash
+rm public/flower.*
+rm -rf src/Flower/
+rm --rf src/Land/
 ```
 
 ## Running the development server
